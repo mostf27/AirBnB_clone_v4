@@ -69,7 +69,7 @@ No known bugs at this time.
 
 ###### Version 4
 
-- Moges Tesfaye - [Github](https://github.com/mostf27) / [Twitter](https://twitter.com/moging)  
+- Moges Tesfaye -      [Github](https://github.com/mostf27) / [Twitter](https://twitter.com/moging)  
 - Messai Hailemariam - [Github](https://github.com/mostf27) / [Twitter](https://twitter.com/thpwang)
 
 ## License
